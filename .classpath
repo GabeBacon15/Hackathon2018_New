@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Music/src"/>
 	<classpathentry kind="lib" path="C:/Users/gabeb/Downloads/jMusic1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hackathon/Downloads/jMusic1.6.5.jar"/>
 	<classpathentry kind="output" path="Music/bin"/>
 </classpath>
