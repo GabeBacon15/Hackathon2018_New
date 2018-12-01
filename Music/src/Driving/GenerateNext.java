@@ -3,7 +3,9 @@ package Driving;
 public class GenerateNext {
 
 	public int chord(int prevChord) {
-		int randomChance = (int) (Math.random() * 100);
+
+		double randomNum = Math.random();
+
 		int nextChord;
 
 		if (prevChord == 1) {
