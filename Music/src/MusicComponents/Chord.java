@@ -33,6 +33,7 @@ public class Chord {
 		this.pitches = newPitches;
 	}
 	//maybe
+	//maybe not
 	public void addPitch(int pitch) {
 		int x = this.pitches.length;
 		int[] temp = this.pitches;
