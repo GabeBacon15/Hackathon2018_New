@@ -12,6 +12,10 @@ import jm.music.data.Phrase;
 import jm.music.data.Score;
 import jm.util.Play;
 import jm.util.Write;
+import jm.music.data.Note;
+import jm.music.data.Phrase;
+import jm.music.data.Score;
+import jm.util.Play;
 
 public class MyScore {
 	

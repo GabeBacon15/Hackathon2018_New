@@ -10,8 +10,7 @@ public class Driver {
 
 		MyScore score = new MyScore();
 		// Chedfyyff
-		
-		
-	}
 
+	}
+	
 }
